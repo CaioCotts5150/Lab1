@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">CaioLab1</string>
+    <string name="app_name">CaioLaboratoire1</string>
     <string name="my_name">Caio dos Santos Cotts Quintao</string>
-    <string name="button_text">Submit</string>
+    <string name="button_text">Soumettre</string>
+    <string name="image_description">logo du Navidrome</string>
 </resources>
